@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Aravindhan
 
-<!--
-**Aravindhan-tech/Aravindhan-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 15 y/o Developer | AI & IoT Builder  
+🏆 Hackathon Winner | Startup Founder (AXOMED)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- Building real-world tech projects  
+- Interested in AI, HealthTech, and Startups  
+- Working on innovative solutions using IoT + AI  
+
+---
+
+## 🛠 Skills
+- 💻 HTML, CSS, JavaScript
+- ⚛️ React.js
+- 🌐 Node.js
+- 🐍 Python (ML, AI)
+- 🔌 IoT (ESP32)
+
+---
+
+## 🔥 Projects
+- 🤖 ML Chatbot (NLP)
+- 🌐 URL Shortener (Node.js)
+- 📊 AI & Data Projects (ongoing)
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/Aravindhan-tech
